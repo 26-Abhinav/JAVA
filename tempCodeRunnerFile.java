@@ -1,1 +1,0 @@
-new Scanner(System.in);
